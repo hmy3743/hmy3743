@@ -1,16 +1,14 @@
-### Hi there 👋
+# Welcome to noel's GitHub Profile!
 
-<!--
-**hmy3743/hmy3743** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- Programming Languages: Elixir, Clojure
+- Current Job: Software Engineer at [Aid Korea](https://www.aidkr.com/)
+- Web Service Development: Phoenix Liveview
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+
+- [Chat Web Page](https://hmy3743-chat.fly.dev/chat): A side project that I developed.
+  - GitHub Repository: [hmy3743/chat](https://github.com/hmy3743/chat)
+
+Thank you for checking out my profile!
